@@ -1,8 +1,8 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://99reseokue.netlify.app/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Resep Kue Lebaran"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  author = "DapurKita"
+  description = "dari dapur ruema"
